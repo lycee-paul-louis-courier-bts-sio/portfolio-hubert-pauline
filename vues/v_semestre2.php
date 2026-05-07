@@ -10,11 +10,11 @@
                     <br>
                     Pour cela, nous avons modifié la base de données, puis nous avons modifié le code du site en lui-même.
                   Trello, mariabd,jquery,php,html
-                  <img src="assets/images/infodev/Logo_Trello.svg.png" alt="logo trello" width="50">
-                  <img src="assets/images/infodev/mariaDB.png" alt="logo mariaDB" width="50">
-                  <img src="assets/images/infodev/jquery.png" alt="logo jquery" width="50">
-                  <img src="assets/images/infodev/php.jfif" alt="logo php" width="50">
-                  <img src="assets/images/infodev/html.png" alt="logo html" width="50"></p>
+                  <img src="assets/images/millenuits/Logo_Trello.svg.png" alt="logo trello" width="50">
+                  <img src="assets/images/millenuits/mariaDB.png" alt="logo mariaDB" width="50">
+                  <img src="assets/images/millenuits/jquery.png" alt="logo jquery" width="50">
+                  <img src="assets/images/millenuits/php.jfif" alt="logo php" width="50">
+                  <img src="assets/images/millenuits/html.png" alt="logo html" width="50"></p>
                   <a href="assets/images/millenuits/Documentation technique MilleNuits.pdf" download>
       <span class="nav-icon material-symbols-rounded">Télécharger la Documentation technique</span>
     </a>
