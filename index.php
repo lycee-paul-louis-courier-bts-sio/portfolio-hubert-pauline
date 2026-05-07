@@ -67,10 +67,10 @@
                 include 'controleur/controleur_Stage.php';
                 break;
             case 'stage2025':
-                include 'controleur/controleur_Stage2025.php';
+                include 'controleur/controleur_stage2025.php';
                 break;
             case 'stage2026':
-                include 'controleur/controleur_Stage2026.php';
+                include 'controleur/controleur_stage2026.php';
                 break;
             default:
                 include 'vues/v_portefolio.php';
