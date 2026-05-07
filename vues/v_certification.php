@@ -18,8 +18,8 @@
       <div class="col skill">
           <div class="card  h-100">
             <h5 class="card-title">Javascript</h5>
-            <img src="assets/images/javascript.pdf" alt="Certification javascript">
-            <a href="assets/docs/java.png" download>
+            <img src="assets/images/javascript.png" alt="Certification javascript">
+            <a href="assets/docs/javascript.pdf" download>
                 <span class="nav-icon material-symbols-rounded">Télécharger la certification javascript</span>
             </a>
           </div>
@@ -28,8 +28,8 @@
       <div class="col skill">
           <div class="card  h-100">
             <h5 class="card-title">HTML et CSS</h5>
-            <img src="assets/images/HTML&CSS.pdf" alt="Certification HTML&CSS">
-            <a href="assets/docs/HTML&CSS.png" download>
+            <img src="assets/images/HTML&CSS.png" alt="Certification HTML&CSS">
+            <a href="assets/docs/HTML&CSS.pdf" download>
                 <span class="nav-icon material-symbols-rounded">Télécharger la certification HTML&CSS</span>
             </a>
           </div>
@@ -38,8 +38,8 @@
       <div class="col skill">
           <div class="card  h-100">
             <h5 class="card-title">PHP</h5>
-            <img src="assets/images/php.pdf" alt="Certification PHP">
-            <a href="assets/docs/php.png" download>
+            <img src="assets/images/php.png" alt="Certification PHP">
+            <a href="assets/docs/php.pdf" download>
                 <span class="nav-icon material-symbols-rounded">Télécharger la certification PHP</span>
             </a>
           </div>
@@ -48,8 +48,8 @@
       <div class="col skill">
           <div class="card  h-100">
             <h5 class="card-title">Git</h5>
-            <img src="assets/images/git.pdf" alt="Certification Git">
-            <a href="assets/docs/git.png" download>
+            <img src="assets/images/git.png" alt="Certification Git">
+            <a href="assets/docs/git.pdf" download>
                 <span class="nav-icon material-symbols-rounded">Télécharger la certification Git</span>
             </a>
           </div>
@@ -58,7 +58,7 @@
       <div class="col skill">
           <div class="card  h-100">
             <h5 class="card-title">Java</h5>
-            <img src="assets/images/java.pdf" alt="Certification de Java">
+            <img src="assets/images/java.png" alt="Certification de Java">
             <a href="assets/java.pdf" download>
                 <span class="nav-icon material-symbols-rounded">Télécharger la certification Java</span>
             </a>
