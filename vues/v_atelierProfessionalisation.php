@@ -29,7 +29,7 @@
       <div class="card h-100">
         <div class="card-body">
           <img src="assets/images/epoka/accueil.PNG" class="card-img-top" alt="...">
-          <h5 class="card-title">Semestre1</h5>
+          <h5 class="card-title">Semestre3</h5>
             <p class="card-text"> Création du site Epoka presse</p>
             <a href="index.php?uc=semestre3" class="btn btn-primary">Détail du semestre</a>
         </div>
@@ -39,7 +39,7 @@
       <div class="card h-100">
         <div class="card-body">
           <img src="assets/images/epoka/.png" class="card-img-top" alt="...">
-          <h5 class="card-title">Semestre2</h5>
+          <h5 class="card-title">Semestre4</h5>
             <p class="card-text"> Création de l'application web Epoka presse</p>
             <a href="index.php?uc=semestre4" class="btn btn-primary">Détail du semestre</a>
         </div>
@@ -49,7 +49,7 @@
       <div class="card h-100">
         <div class="card-body">
           <img src="assets/images/epoka/.png" class="card-img-top" alt="...">
-          <h5 class="card-title">Semestre2</h5>
+          <h5 class="card-title">Semestre4</h5>
             <p class="card-text"> Création de l'application android Epoka presse</p>
             <a href="index.php?uc=semestre5" class="btn btn-primary">Détail du semestre</a>
         </div>
