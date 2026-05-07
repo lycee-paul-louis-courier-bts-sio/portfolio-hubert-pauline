@@ -69,9 +69,9 @@
         <div class="card project-card">
           <div class="card-body">
             <h5 class="card-title">Les différentes pages</h5>
-            <img src="assets/images/epoka/article.png" class="card-img-top" alt="...">
-            <img src="assets/images/epoka/image.png" class="card-img-top" alt="...">
-            <img src="assets/images/epoka/vente.png" class="card-img-top" alt="...">
+            <img src="assets/images/epoka/article.PNG" class="card-img-top" alt="...">
+            <img src="assets/images/epoka/image.PNG" class="card-img-top" alt="...">
+            <img src="assets/images/epoka/vente.PNG" class="card-img-top" alt="...">
           </div>
         </div>
       </div>    

@@ -22,7 +22,7 @@
         <div class="card project-card">
           <div class="card-body">
             <h5 class="card-title">Projet commencé</h5>
-            <img src="assets/images/millenuits/trello.png" class="card-img-top" alt="...">
+            <img src="assets/images/millenuits/trello.PNG" class="card-img-top" alt="...">
           </div>
         </div>
       </div>  

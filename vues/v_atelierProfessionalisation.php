@@ -28,7 +28,7 @@
     <div class="col">
       <div class="card h-100">
         <div class="card-body">
-          <img src="assets/images/epoka/accueil.png" class="card-img-top" alt="...">
+          <img src="assets/images/epoka/accueil.PNG" class="card-img-top" alt="...">
           <h5 class="card-title">Semestre1</h5>
             <p class="card-text"> Création du site Epoka presse</p>
             <a href="index.php?uc=semestre3" class="btn btn-primary">Détail du semestre</a>
