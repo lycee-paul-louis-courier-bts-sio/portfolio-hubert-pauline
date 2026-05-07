@@ -1,0 +1,53 @@
+ <section id="projects" class="section">
+ <div class="container">
+  <div class="text-primary-emphasis">
+      <div class="card" >
+        <div class="card-body">
+          <img src="assets/images/infodev/logo.png" alt="logo infodev" width="250">
+          <p class="card-text"> Durant le premier semestre, nous avons travaillé sur un site pour la société fictive infoDev ICT,
+                    une entreprise de services informatiques.
+                    <br>
+                    Celle-ci avait besoin de moderniser son site vitrine en utilisant le CMS WordPress.
+                    <br>
+                    <img src="assets/images/infodev/logo-wordpress.png" alt="logo wordpress" width="50">
+                  </p>
+                  <a href="assets/images/infodev/Charte Graphique V2 - Abigaëlle Thubert & Pauline Hubert.pdf" download>
+      <span class="nav-icon material-symbols-rounded">Télécharger la Charte Graphique</span>
+    </a>
+    <br>
+    <a href="assets/images/infodev/Réalisations en Atelier de Professionnalisation.pdf" download>
+      <span class="nav-icon material-symbols-rounded">Télécharger la réalisation</span>
+    </a>
+        </div>
+      </div>
+    <br>
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+      <div class="col">
+        <div class="card project-card">
+          <div class="card-body">
+            <h5 class="card-title">Site avant modification apportée</h5>
+            <img src="assets/images/infodev/site avant accueil.png" class="card-img-top" alt="...">
+            <img src="assets/images/infodev/site avant contacte.png" class="card-img-top" alt="...">
+            <img src="assets/images/infodev/site avant pole dev.png" class="card-img-top" alt="...">
+            <img src="assets/images/infodev/site avant pole reseau.png" class="card-img-top" alt="...">
+          </div>
+        </div>
+      </div>  
+      <div class="col">
+        <div class="card project-card">
+          <div class="card-body">
+            <h5 class="card-title">Site après modification apportée</h5>
+            <img src="assets/images/infodev/Capture d'écran 2025-01-09 165226.png" class="card-img-top" alt="...">
+            <img src="assets/images/infodev/Capture d'écran 2025-01-09 165752.png" class="card-img-top" alt="...">
+            <img src="assets/images/infodev/Capture d'écran 2025-01-09 165814.png" class="card-img-top" alt="...">
+            <img src="assets/images/infodev/Capture d'écran 2025-01-09 165843.png" class="card-img-top" alt="...">
+            <img src="assets/images/infodev/Capture d'écran 2025-01-09 170043.png" class="card-img-top" alt="...">
+            <img src="assets/images/infodev/Capture d'écran 2025-01-09 170501.png" class="card-img-top" alt="...">
+            <img src="assets/images/infodev/Capture d'écran 2025-01-09 170511.png" class="card-img-top" alt="...">
+          </div>
+        </div>
+      </div>  
+    </div>
+  </div>
+</div>
+</section>

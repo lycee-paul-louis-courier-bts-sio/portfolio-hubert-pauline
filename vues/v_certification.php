@@ -1,0 +1,75 @@
+ <section id="skills" class="section dark">
+ <div class="container">
+  <div class="text-primary-emphasis">
+    <h1>Présentation de toute les certification passer durant ces deux ans</h1>
+          <!-- Certification l'ANSSI-->
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+      <div class="col skill">
+          <div class="card  h-100">
+            <h5 class="card-title">ANSSI</h5>
+             <img src="assets/images/..." alt="Certification ANSSI">
+            <a href="assets/docs/..." download>
+                <span class="nav-icon material-symbols-rounded">Télécharger la certification ANSSI</span>
+            </a>
+          </div>
+      </div>
+
+            <!-- Certification javascript-->
+      <div class="col skill">
+          <div class="card  h-100">
+            <h5 class="card-title">Javascript</h5>
+            <img src="assets/images/java.png" alt="Certification javascript">
+            <a href="assets/docs/java.png" download>
+                <span class="nav-icon material-symbols-rounded">Télécharger la certification javascript</span>
+            </a>
+          </div>
+      </div>
+      <!-- Certification HTML et CSS-->
+      <div class="col skill">
+          <div class="card  h-100">
+            <h5 class="card-title">HTML et CSS</h5>
+            <img src="assets/images/HTML&CSS.png" alt="Certification HTML&CSS">
+            <a href="assets/docs/HTML&CSS.png" download>
+                <span class="nav-icon material-symbols-rounded">Télécharger la certification HTML&CSS</span>
+            </a>
+          </div>
+      </div>
+      <!-- Certification PHP-->
+      <div class="col skill">
+          <div class="card  h-100">
+            <h5 class="card-title">PHP</h5>
+            <img src="assets/images/php.png" alt="Certification PHP">
+            <a href="assets/docs/php.png" download>
+                <span class="nav-icon material-symbols-rounded">Télécharger la certification PHP</span>
+            </a>
+          </div>
+      </div>
+      <!-- Certification Git-->
+      <div class="col skill">
+          <div class="card  h-100">
+            <h5 class="card-title">Git</h5>
+            <img src="assets/images/git.png" alt="Certification Git">
+            <a href="assets/docs/git.png" download>
+                <span class="nav-icon material-symbols-rounded">Télécharger la certification Git</span>
+            </a>
+          </div>
+      </div>
+      <!-- Certification java-->
+      <div class="col skill">
+          <div class="card  h-100">
+            <h5 class="card-title">Java</h5>
+            <img src="assets/images/java.png" alt="Certification de Java">
+            <a href="assets/java.pdf" download>
+                <span class="nav-icon material-symbols-rounded">Télécharger la certification Java</span>
+            </a>
+          </div>
+    </div>
+  </div>
+</div>
+</section>
+       <!--
+            <img src="assets/images/certifs/certif.png" alt="Certification de Ruby">
+            <a href="assets/docs/certifs/certif.pdf" download>
+                <span class="nav-icon material-symbols-rounded">download</span>
+            </a>
+        -->
