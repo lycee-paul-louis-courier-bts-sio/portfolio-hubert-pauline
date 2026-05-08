@@ -83,6 +83,30 @@
         </div>
       </div>
     </div>
+    <div class="card">
+    <?php include 'entete-tab-comp.html'; ?>
+        <tr>
+            <th>Implémentation de la base de données bd_millenuits</th>
+            <td class="date">janvier et février 2025</td>
+            <td class="coche"></td>
+            <td class="coche"></td>
+            <td></td>
+            <td class="coche"></td>
+            <td></td>
+            <td></td>
+        </tr>
+
+        <tr>
+            <th>Développement des fonctionnalités « Gestion des comptes rendus de visite »</th>
+            <td class="date">mars à mai 2025</td>
+            <td></td>
+            <td class="coche"></td>
+            <td class="coche"></td>
+            <td class="coche"></td>
+            <td></td>
+            <td class="coche"></td>
+        </tr>
+    </table>
   </div>
 </div>
 </section>

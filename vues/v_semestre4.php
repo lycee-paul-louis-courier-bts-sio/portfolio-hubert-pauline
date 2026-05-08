@@ -36,11 +36,46 @@
         <div class="card project-card">
           <div class="card-body">
             <h5 class="card-title">L'utilisateur développe les abonnements non renouvelés</h5>
-            <img src="assets/images/epokaabo/rouge.PNG" class="card-img-top" alt="liste non renouveler">
             <p class="card-text">Dans cette accordéon nous retrouvons la liste des abonnées qui n'ont pas renouvelés leurs abonnements ainsi que leurs informations sur l'abonnements. Nous avons également une loupe qui permet de retrouver tout les abonnements d'un abonnée</p>
           </div>
         </div>
       </div>
   </div>
+</div>
+<div class="card">
+    <?php include 'entete-tab-comp.html'; ?>
+        <tr>
+            <th>Étude comparative d’un CMS et installation du CMS Wordpress</th>
+            <td class="date">septembre 2024</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td class="coche"></td>
+            <td></td>
+            <td class="coche"></td>
+        </tr>
+
+        <tr>
+            <th>Étude de l'existant du site Infodev (analyse du design, lisibilité, ergonomie, accessibilité du site, bonnes pratiques, performances, SEO)</th>
+            <td class="date">octobre 2024</td>
+            <td></td>
+            <td></td>
+            <td class="coche"></td>
+            <td class="coche"></td>
+            <td></td>
+            <td></td>
+        </tr>
+
+        <tr>
+            <th>Refonte et évolutions du site vitrine Infodev à l’aide du CMS Wordpress</th>
+            <td class="date">novembre et décembre 2024</td>
+            <td class="coche"></td>
+            <td class="coche"></td>
+            <td class="coche"></td>
+            <td class="coche"></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
 </div>
 </section>

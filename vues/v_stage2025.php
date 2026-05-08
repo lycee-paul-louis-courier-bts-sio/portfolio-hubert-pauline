@@ -68,5 +68,63 @@ Cette expérience a été très enrichissante. Elle m'a permis de me familiarise
         </div>
       </div> 
     </div>
+    <div class="card">
+    <?php include 'entete-tab-comp.html'; ?>
+        <tr>
+            <th>Mission 1</th>
+            <td class="date">du 19 mai au 23 mai 2025</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td class="coche"></td>
+        </tr>
+
+        <tr>
+            <th>Mission 2</th>
+            <td class="date">du 26 mai au 28 mai 2025</td>
+            <td class="coche"></td>
+            <td class="coche"></td>
+            <td class="coche"></td>
+            <td class="coche"></td>
+            <td></td>
+            <td></td>
+        </tr>
+
+        <tr>
+            <th>Mission 3</th>
+            <td class="date">du 2 juin au 6 juin 2025</td>
+            <td class="coche"></td>
+            <td class="coche"></td>
+            <td class="coche"></td>
+            <td class="coche"></td>
+            <td></td>
+            <td></td>
+        </tr>
+
+        <tr>
+            <th>Mission 4</th>
+            <td class="date">du 10 juin au 12 juin 2025</td>
+            <td class="coche oupsi">you</td>
+            <td class="coche oupsi">lost</td>
+            <td class="coche oupsi">the</td>
+            <td class="coche oupsi">game</td>
+            <td></td>
+            <td></td>
+        </tr>
+
+        <tr>
+            <th>Mission 5</th>
+            <td class="date">du 13 juin au 25 juin 2025</td>
+            <td class="coche"></td>
+            <td class="coche"></td>
+            <td class="coche"></td>
+            <td class="coche"></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+</div>
   </div>
 </div>

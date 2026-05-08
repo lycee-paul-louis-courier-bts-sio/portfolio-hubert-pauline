@@ -62,4 +62,40 @@
     </div>
   </div>
 </div>
+<div class="card">
+    <?php include 'entete-tab-comp.html'; ?>
+        <tr>
+            <th>Étude comparative d’un CMS et installation du CMS Wordpress</th>
+            <td class="date">septembre 2024</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td class="coche"></td>
+            <td></td>
+            <td class="coche"></td>
+        </tr>
+
+        <tr>
+            <th>Étude de l'existant du site Infodev (analyse du design, lisibilité, ergonomie, accessibilité du site, bonnes pratiques, performances, SEO)</th>
+            <td class="date">octobre 2024</td>
+            <td></td>
+            <td></td>
+            <td class="coche"></td>
+            <td class="coche"></td>
+            <td></td>
+            <td></td>
+        </tr>
+
+        <tr>
+            <th>Refonte et évolutions du site vitrine Infodev à l’aide du CMS Wordpress</th>
+            <td class="date">novembre et décembre 2024</td>
+            <td class="coche"></td>
+            <td class="coche"></td>
+            <td class="coche"></td>
+            <td class="coche"></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+</div>
 </section>
