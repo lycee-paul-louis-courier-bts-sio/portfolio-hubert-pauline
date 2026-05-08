@@ -20,7 +20,7 @@
         <div class="card-body">
           <img src="assets/images/millenuits/accueil.png" class="card-img-top" alt="...">
           <h5 class="card-title">Semestre2</h5>
-          <p class="card-text">Création du site millenuits</p>
+          <p class="card-text">Création de l'application millenuits</p>
           <a href="index.php?uc=semestre2" class="btn btn-primary">Détail de semestre</a>
         </div>
       </div>
@@ -30,7 +30,7 @@
         <div class="card-body">
           <img src="assets/images/epoka/accueil.PNG" class="card-img-top" alt="...">
           <h5 class="card-title">Semestre3</h5>
-            <p class="card-text"> Création du site Epoka presse</p>
+            <p class="card-text"> Création de l'application Epoka presse</p>
             <a href="index.php?uc=semestre3" class="btn btn-primary">Détail du semestre</a>
         </div>
       </div>
@@ -40,7 +40,7 @@
         <div class="card-body">
           <img src="assets/images/epoka/.png" class="card-img-top" alt="...">
           <h5 class="card-title">Semestre4</h5>
-            <p class="card-text"> Création de l'application web Epoka presse</p>
+          <p class="card-text"> Création de l'application Abonnée</p>
             <a href="index.php?uc=semestre4" class="btn btn-primary">Détail du semestre</a>
         </div>
       </div>
@@ -50,7 +50,7 @@
         <div class="card-body">
           <img src="assets/images/epoka/.png" class="card-img-top" alt="...">
           <h5 class="card-title">Semestre4</h5>
-            <p class="card-text"> Création de l'application android Epoka presse</p>
+            <p class="card-text"> Création de l'application Abonnée mobile</p>
             <a href="index.php?uc=semestre5" class="btn btn-primary">Détail du semestre</a>
         </div>
       </div>
