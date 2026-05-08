@@ -17,8 +17,8 @@
                     <img src="assets/images/millenuits/html.png" alt="logo html" width="50">
           </p>
           <a href="assets/images/epoka/Procédure d’installation de SQL Server avec Code Igniter.pdf" download>
-      <span class="nav-icon material-symbols-rounded">Télécharger la procédure</span>
-    </a
+            <span class="nav-icon material-symbols-rounded">Télécharger la procédure</span>
+          </a
         </div>
       </div>
     <br>
@@ -63,25 +63,25 @@
           </div>
         </div>
       </div>
-      </div>
       <h1>Détail du projet</h1>
       <div class="row row-cols-1 row-cols-md-3 g-4">
-      <div class="col">
-        <div class="card project-card">
-          <div class="card-body">
-            <h5 class="card-title">Création du site Epoka presse</h5>
-            <img src="assets/images/epoka/accueil_avant_connection.PNG" class="card-img-top" alt="...">
-            <img src="assets/images/epoka/accueil.PNG" class="card-img-top" alt="...">
+        <div class="col">
+          <div class="card project-card">
+            <div class="card-body">
+              <h5 class="card-title">Création du site Epoka presse</h5>
+              <img src="assets/images/epoka/accueil_avant_connection.PNG" class="card-img-top" alt="...">
+              <img src="assets/images/epoka/accueil.PNG" class="card-img-top" alt="...">
+            </div>
           </div>
-        </div>
-      </div>  
-      <div class="col">
-        <div class="card project-card">
-          <div class="card-body">
-            <h5 class="card-title">Les différentes pages</h5>
-            <img src="assets/images/epoka/article.PNG" class="card-img-top" alt="...">
-            <img src="assets/images/epoka/image.PNG" class="card-img-top" alt="...">
-            <img src="assets/images/epoka/vente.PNG" class="card-img-top" alt="...">
+        </div>  
+        <div class="col">
+          <div class="card project-card">
+            <div class="card-body">
+              <h5 class="card-title">Les différentes pages</h5>
+              <img src="assets/images/epoka/article.PNG" class="card-img-top" alt="...">
+              <img src="assets/images/epoka/image.PNG" class="card-img-top" alt="...">
+              <img src="assets/images/epoka/vente.PNG" class="card-img-top" alt="...">
+            </div>
           </div>
         </div>
       </div>    
