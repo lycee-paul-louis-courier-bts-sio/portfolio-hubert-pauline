@@ -10,7 +10,11 @@ J'ai conçu l'application mobile Android en utilisant le logiciel Android Studio
 </p>
         </div>
       </div>
-    <br>    
+    <br>
+     <h1>Compétence travailler</h1>
+    <p>"-Gérer le patrimoine informatique"
+      "-Répondre aux incidents et aux demandes d’assistance et d’évolution"
+      "-Mettre à disposition des utilisateurs un service informatique"</p>    
     <div class="row row-cols-1 row-cols-md-3 g-4">
       <div class="col">
         <div class="card project-card">
