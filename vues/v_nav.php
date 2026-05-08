@@ -20,11 +20,19 @@
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="index.php?uc=gestionPatrimoine">Patrimoine</a>
+          <a class="nav-link" href="index.php?uc=atelierProfessionalisation">Atelier</a>
         </li>
 
         <li class="nav-item">
+          <a class="nav-link" href="index.php?uc=stage">Stage</a>
+        </li>
+
+         <li class="nav-item">
           <a class="nav-link" href="index.php?uc=veilleTechnologique">Veille</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="index.php?uc=gestionPatrimoine">Patrimoine</a>
         </li>
 
         <li class="nav-item">
@@ -33,14 +41,6 @@
 
         <li class="nav-item">
           <a class="nav-link" href="index.php?uc=contact">Contact</a>
-        </li>
-
-        <li class="nav-item">
-          <a class="nav-link" href="index.php?uc=atelierProfessionalisation">Atelier</a>
-        </li>
-
-        <li class="nav-item">
-          <a class="nav-link" href="index.php?uc=stage">Stage</a>
         </li>
 
       </ul>
