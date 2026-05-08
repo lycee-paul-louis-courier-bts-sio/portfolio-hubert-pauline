@@ -48,6 +48,9 @@
                 case 'semestre4':
                     include 'controleur/controleur_semestre4.php';
                     break;
+                    case 'semestre5':
+                    include 'controleur/controleur_semestre5.php';
+                    break;
             case 'gestionPatrimoine':
                 include 'controleur/controleur_gestionPatrimoine.php';
                 break;
