@@ -37,13 +37,6 @@ J'ai conçu l'application mobile Android en utilisant le logiciel Android Studio
           </div>
         </div>
       </div>
-    <a href="assets/images/epoka_appli/..." download>
-      <span class="nav-icon material-symbols-rounded">... </span>
-    </a>
-    <br>
-    <a href="assets/images/epoka_appli/..." download>
-      <span class="nav-icon material-symbols-rounded">...</span>
-    </a>
   </div>
 </div>
 </section>

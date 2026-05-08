@@ -11,11 +11,23 @@
                     <br>
                     <img src="assets/images/infodev/logo-wordpress.png" alt="logo wordpress" width="50">
                   </p>
-                  <a href="assets/images/infodev/Charte Graphique V2 - Abigaëlle Thubert & Pauline Hubert.pdf" download>
+                  <a href="assets/images/infodev/Charte_Graphique.pdf" download>
       <span class="nav-icon material-symbols-rounded">Télécharger la Charte Graphique</span>
     </a>
     <br>
-    <a href="assets/images/infodev/Réalisations en Atelier de Professionnalisation.pdf" download>
+     <a href="assets/images/infodev/Comparatif_de_CMS.pdf" download>
+      <span class="nav-icon material-symbols-rounded">Télécharger la Charte Graphique</span>
+    </a>
+    <br>
+     <a href="assets/images/infodev/Documentation_de_l'installation_de_WordPress.pdf" download>
+      <span class="nav-icon material-symbols-rounded">Télécharger la Charte Graphique</span>
+    </a>
+    <br>
+     <a href="assets/images/infodev/Recette_existant_infodev.pdf" download>
+      <span class="nav-icon material-symbols-rounded">Télécharger la Charte Graphique</span>
+    </a>
+    <br>
+    <a href="assets/images/infodev/Recette_WordPress_utilisateurs.pdf" download>
       <span class="nav-icon material-symbols-rounded">Télécharger la réalisation</span>
     </a>
         </div>

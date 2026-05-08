@@ -16,13 +16,9 @@
                     <img src="assets/images/epoka/javascript.jpg" alt="logo javascript" width="50">
                     <img src="assets/images/millenuits/html.png" alt="logo html" width="50">
           </p>
-          <a href="assets/images/epoka/procedure v3 apn.pdf" download>
+          <a href="assets/images/epoka/Procédure d’installation de SQL Server avec Code Igniter.pdf" download>
       <span class="nav-icon material-symbols-rounded">Télécharger la procédure</span>
-    </a>
-    <br>
-    <a href="assets/images/epoka/mcd.pdf" download>
-      <span class="nav-icon material-symbols-rounded">Télécharger le MCD</span>
-    </a>
+    </a
         </div>
       </div>
     <br>

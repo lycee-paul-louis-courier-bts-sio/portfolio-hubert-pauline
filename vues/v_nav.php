@@ -3,7 +3,7 @@
   <div class="container">
 
     <a class="navbar-brand fw-bold" href="index.php">
-      <img src="assets/images/paola.png" width="50">
+      <img src="assets/images/Paola.png" width="50">
     </a>
 
     <!-- bouton mobile -->
