@@ -23,12 +23,12 @@
       </div>
     <br>
      <h1>Compétence travailler</h1>
-    <p>"-Gérer le patrimoine informatique"
-      "-Répondre aux incidents et aux demandes d’assistance et d’évolution"
-      "-Développer la présence en ligne de l’organisation"
-      "-Travailler en mode projet"
-      "-Mettre à disposition des utilisateurs un service informatique"
-      "-Organiser son développement professionnel"</p>
+    <p>-Gérer le patrimoine informatique<br>
+    -Répondre aux incidents et aux demandes d’assistance et d’évolution<br>
+      -Développer la présence en ligne de l’organisation<br>
+      -Travailler en mode projet<br>
+      -Mettre à disposition des utilisateurs un service informatique<br>
+      -Organiser son développement professionnel</p>
     <h1>Gestion du projet</h1>
     <div class="row row-cols-1 row-cols-md-3 g-4">
       <div class="col">

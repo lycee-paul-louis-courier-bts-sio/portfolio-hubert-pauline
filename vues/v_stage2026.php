@@ -18,10 +18,10 @@ Cette expérience a été particulièrement enrichissante. Elle m'a permis de co
       </div>
     <br>
     <h1>Compétence travailler</h1>
-    <p>"-Gérer le patrimoine informatique"
-      "-Répondre aux incidents et aux demandes d’assistance et d’évolution"
-      "-Travailler en mode projet"
-      "-Mettre à disposition des utilisateurs un service informatique"</p>
+    <p>-Gérer le patrimoine informatique<br>
+      -Répondre aux incidents et aux demandes d’assistance et d’évolution<br>
+      -Travailler en mode projet<br>
+      -Mettre à disposition des utilisateurs un service informatique</p>
         <div class="row row-cols-1 row-cols-md-3 g-4">
       <div class="col">
         <div class="card h-100">

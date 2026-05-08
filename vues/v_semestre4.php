@@ -15,9 +15,9 @@
     <br>   
    <h1>Compétence travailler</h1>
     <p>
-      "-Répondre aux incidents et aux demandes d’assistance et d’évolution"
-      "-Mettre à disposition des utilisateurs un service informatique"
-      "-Organiser son développement professionnel"</p>
+      -Répondre aux incidents et aux demandes d’assistance et d’évolution<br>
+      -Mettre à disposition des utilisateurs un service informatique<br>
+      -Organiser son développement professionnel</p>
     <div class="row row-cols-1 row-cols-md-3 g-4">
       <div class="col">
         <div class="card project-card">
