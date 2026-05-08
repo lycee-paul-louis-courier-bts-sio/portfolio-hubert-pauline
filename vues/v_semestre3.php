@@ -18,7 +18,7 @@
           </p>
           <a href="assets/images/epoka/Procédure d’installation de SQL Server avec Code Igniter.pdf" download>
             <span class="nav-icon material-symbols-rounded">Télécharger la procédure</span>
-          </a
+          </a>
         </div>
       </div>
     <br>
