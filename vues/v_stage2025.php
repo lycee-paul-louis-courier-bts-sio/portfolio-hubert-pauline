@@ -1,6 +1,18 @@
  <div class="container">
-  <div class="text-primary-emphasis">
-    <h1>Toutes les missions réalisées pendant le stage</h1>
+      <div class="text-primary-emphasis">
+        <h1> Stage 2025 chez Stock2com</h1>
+         <div class="container">
+      <div class="card" >
+        <div class="card-body">
+          <p class="card-text">Lors de mon stage de première année chez Stock2Com, j'ai découvert le framework Ruby on Rails, ce qui m'a permis de renforcer mes compétences dans l'utilisation de tels outils. J'ai principalement contribué à l'amélioration du CMS de l'entreprise, lequel permet aux clients de créer eux-mêmes leur propre site internet.
+
+Cette expérience a été très enrichissante. Elle m'a permis de me familiariser avec Ruby on Rails et de découvrir les rouages du télétravail.</p>
+        </div>
+        <a href="assets/images/stage/rapport de stage.pdf" download>
+      <span class="nav-icon material-symbols-rounded">Télécharger le rapport de stage</span>
+    </a>
+      </div>
+    <br>
     <div class="row row-cols-1 row-cols-md-3 g-4">
       <div class="col">
         <div class="card h-100">
@@ -56,8 +68,5 @@
         </div>
       </div> 
     </div>
-    <a href="assets/images/stage/rapport de stage.pdf" download>
-      <span class="nav-icon material-symbols-rounded">Télécharger le rapport de stage</span>
-    </a>
   </div>
 </div>

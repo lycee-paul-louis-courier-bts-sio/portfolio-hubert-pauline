@@ -1,6 +1,22 @@
 <div class="container">
     <div class="text-primary-emphasis">
-        <h1> Toutes les missions réalisées pendant le stage</h1>
+        <h1> Stage 2026 chez Stock2com</h1>
+         <div class="container">
+      <div class="card" >
+        <div class="card-body">
+          <p class="card-text">Lors de ma deuxième année de stage chez Stock2Com, on m'a confié une mission d'une complexité inédite. En collaboration avec une autre stagiaire, j'ai dû concevoir un outil de statistiques visant à monitorer le flux de données transmises par les entreprises clientes.
+
+Stock2Com traite quotidiennement un volume important d'informations relatives aux offres de voyages, allant du prix des prestations aux contenus visuels associés. L'objectif de cet outil était d'optimiser l'analyse de leur indexation, notamment grâce à un système d'alertes permettant d'identifier rapidement la nature et l'origine des éventuelles lacunes dans les données.
+
+Pour structurer notre travail, j'ai mis en place un tableau de suivi des tâches sur Notion. 
+
+Cette expérience a été particulièrement enrichissante. Elle m'a permis de consolider mes acquis sur Ruby on Rails tout en contribuant au développement d'un projet de plus grande envergure.</p>
+        </div>
+        <a href="assets/images/stage/rapport de stage.pdf" download>
+      <span class="nav-icon material-symbols-rounded">Télécharger le rapport de stage</span>
+    </a>
+      </div>
+    <br>
         <div class="row row-cols-1 row-cols-md-3 g-4">
       <div class="col">
         <div class="card h-100">
@@ -44,8 +60,6 @@
         </div>
       </div>     
     </div>
-        <a href="assets/images/stage/rapport de stage.pdf" download>
-      <span class="nav-icon material-symbols-rounded">Télécharger le rapport de stage</span>
-    </a>
+      
     </div>
 </div>
