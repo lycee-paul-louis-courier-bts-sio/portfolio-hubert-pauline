@@ -63,17 +63,17 @@ Cette expérience a été très enrichissante. Elle m'a permis de me familiarise
           </div>
         </div>
       </div>
-      <div class="card" onclick="this.classList.toggle('large')">
+      <div class="col">
+        <div class="card h-100">
+          <div class="card-body">
             <h5 class="card-title">Création d'un widget Carrousel d'avis</h5>
             <img src="assets/images/stage2025/mission 5/Widget-Avis-BO.png" class="card-img-top" alt="...">
             <img src="assets/images/stage2025/mission 5/Widget-Avis-FO.png" class="card-img-top" alt="...">
             <p class="card-text">Je n'ai pas eu la possibilité de conclure cette tâche, étant donné que le stage arrivait à son terme. Elle impliquait la conception d'un widget pour le système de gestion de contenu de l'entreprise, permettant aux clients d'afficher les avis sur leur propre site web.</p>
- 
-       </div>
+          </div>
+        </div>
+      </div> 
     </div>
     
   </div>
 </div>
-<div class="card" onclick="this.classList.toggle('large')">
-    
-  </div>
