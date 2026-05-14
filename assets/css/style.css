@@ -83,14 +83,15 @@ body {
     transform: translateY(-10px);
     box-shadow: 0 10px 30px rgba(0,0,0,0.5);
 }
-.card-img-top {
-    transition: transform 0.3s ease;
+/* On cible l'image spécifiquement à l'intérieur de la card */
+.card .card-body .card-img-top {
+    transition: transform 0.3s ease-in-out !important;
     cursor: zoom-in;
 }
 
-.card-img-top:hover {
-    transform: scale(1.5); /* Agrandit l'image de 50% */
-    z-index: 10;
+.card .card-body .card-img-top:hover {
+    transform: scale(1.8) !important; /* On augmente un peu pour bien voir l'effet */
+    z-index: 999;
     position: relative;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
 }
