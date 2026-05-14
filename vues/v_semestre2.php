@@ -33,7 +33,7 @@
         <div class="card project-card">
           <div class="card-body">
             <h5 class="card-title">Projet commencé</h5>
-            <img src="assets/images/millenuits/trello.PNG" class="card-img-top" alt="...">
+            <img src="assets/images/millenuits/trello.PNG" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
           </div>
         </div>
       </div>  
@@ -41,7 +41,7 @@
         <div class="card project-card">
           <div class="card-body">
             <h5 class="card-title">Projet en cours</h5>
-            <img src="assets/images/millenuits/trello millenuits.PNG" class="card-img-top" alt="...">
+            <img src="assets/images/millenuits/trello millenuits.PNG" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
           </div>
         </div>
       </div>  
@@ -49,7 +49,7 @@
         <div class="card project-card">
           <div class="card-body">
             <h5 class="card-title">Projet terminé</h5>
-            <img src="assets/images/millenuits/trello millenuits fini.PNG" class="card-img-top" alt="...">
+            <img src="assets/images/millenuits/trello millenuits fini.PNG" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
           </div>
         </div>
       </div>
@@ -60,10 +60,10 @@
         <div class="card project-card">
           <div class="card-body">
             <h5 class="card-title">Création du site Millenuits</h5>
-            <img src="assets/images/millenuits/accueil.png" class="card-img-top" alt="...">
-            <img src="assets/images/millenuits/accueil avant connection.png" class="card-img-top" alt="...">
-            <img src="assets/images/millenuits/menu deroulant cont.png" class="card-img-top" alt="...">
-            <img src="assets/images/millenuits/menu deroulant dis.png" class="card-img-top" alt="...">
+            <img src="assets/images/millenuits/accueil.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
+            <img src="assets/images/millenuits/accueil avant connection.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
+            <img src="assets/images/millenuits/menu deroulant cont.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
+            <img src="assets/images/millenuits/menu deroulant dis.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
           </div>
         </div>
       </div>  
@@ -71,9 +71,9 @@
         <div class="card project-card">
           <div class="card-body">
             <h5 class="card-title">Création de la page contact</h5>
-            <img src="assets/images/millenuits/ajout cont.png" class="card-img-top" alt="...">
-            <img src="assets/images/millenuits/liste cont.png" class="card-img-top" alt="...">
-            <img src="assets/images/millenuits/liste_contacts.png" class="card-img-top" alt="...">
+            <img src="assets/images/millenuits/ajout cont.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
+            <img src="assets/images/millenuits/liste cont.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
+            <img src="assets/images/millenuits/liste_contacts.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
           </div>
         </div>
       </div>  
@@ -81,10 +81,10 @@
         <div class="card project-card">
           <div class="card-body">
             <h5 class="card-title">Création de la page distributeur</h5>
-            <img src="assets/images/millenuits/ajout dis.png" class="card-img-top" alt="...">
-            <img src="assets/images/millenuits/ajouter_distributeur.png" class="card-img-top" alt="...">
-            <img src="assets/images/millenuits/liste dis.png" class="card-img-top" alt="...">
-            <img src="assets/images/millenuits/liste_distributeurs.png" class="card-img-top" alt="...">
+            <img src="assets/images/millenuits/ajout dis.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
+            <img src="assets/images/millenuits/ajouter_distributeur.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
+            <img src="assets/images/millenuits/liste dis.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
+            <img src="assets/images/millenuits/liste_distributeurs.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
           </div>
         </div>
       </div>

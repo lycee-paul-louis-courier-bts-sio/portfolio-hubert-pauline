@@ -20,7 +20,7 @@
         <div class="card project-card">
           <div class="card-body">
             <h5 class="card-title">Web service get</h5>
-            <img src="assets/images/epokamobile/get.PNG" class="card-img-top" alt="...">
+            <img src="assets/images/epokamobile/get.PNG" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
           </div>
         </div>
       </div>  
@@ -28,7 +28,7 @@
         <div class="card project-card">
           <div class="card-body">
             <h5 class="card-title"> Web service avec url</h5>
-            <img src="assets/images/epokamobile/get2.PNG" class="card-img-top" alt="...">
+            <img src="assets/images/epokamobile/get2.PNG" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
           </div>
         </div>
       </div>  
@@ -36,7 +36,7 @@
         <div class="card project-card">
           <div class="card-body">
             <h5 class="card-title">Web service put</h5>
-            <img src="assets/images/epokamobile/put.PNG" class="card-img-top" alt="...">
+            <img src="assets/images/epokamobile/put.PNG" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
           </div>
         </div>
       </div>

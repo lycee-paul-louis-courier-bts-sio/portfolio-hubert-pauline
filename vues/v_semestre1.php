@@ -44,10 +44,10 @@
         <div class="card project-card">
           <div class="card-body">
             <h5 class="card-title">Site avant modification apportée</h5>
-            <img src="assets/images/infodev/site avant accueil.png" class="card-img-top" alt="...">
-            <img src="assets/images/infodev/site avant contacte.png" class="card-img-top" alt="...">
-            <img src="assets/images/infodev/site avant pole dev.png" class="card-img-top" alt="...">
-            <img src="assets/images/infodev/site avant pole reseau.png" class="card-img-top" alt="...">
+            <img src="assets/images/infodev/site avant accueil.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
+            <img src="assets/images/infodev/site avant contacte.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
+            <img src="assets/images/infodev/site avant pole dev.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
+            <img src="assets/images/infodev/site avant pole reseau.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
           </div>
         </div>
       </div>  
@@ -55,9 +55,9 @@
         <div class="card project-card">
           <div class="card-body">
             <h5 class="card-title">Site après modification apportée</h5>
-            <img src="assets/images/infodev/Capture d'écran 2025-01-09 165226.png" class="card-img-top" alt="...">
-            <img src="assets/images/infodev/Capture d'écran 2025-01-09 165752.png" class="card-img-top" alt="...">
-            <img src="assets/images/infodev/Capture d'écran 2025-01-09 165814.png" class="card-img-top" alt="...">
+            <img src="assets/images/infodev/Capture d'écran 2025-01-09 165226.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
+            <img src="assets/images/infodev/Capture d'écran 2025-01-09 165752.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
+            <img src="assets/images/infodev/Capture d'écran 2025-01-09 165814.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
           </div>
         </div>
       </div>
@@ -65,10 +65,10 @@
         <div class="card project-card">
           <div class="card-body">
             <h5 class="card-title">Site après modification apportée</h5>
-            <img src="assets/images/infodev/Capture d'écran 2025-01-09 165843.png" class="card-img-top" alt="...">
-            <img src="assets/images/infodev/Capture d'écran 2025-01-09 170043.png" class="card-img-top" alt="...">
-            <img src="assets/images/infodev/Capture d'écran 2025-01-09 170501.png" class="card-img-top" alt="...">
-            <img src="assets/images/infodev/Capture d'écran 2025-01-09 170511.png" class="card-img-top" alt="...">
+            <img src="assets/images/infodev/Capture d'écran 2025-01-09 165843.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
+            <img src="assets/images/infodev/Capture d'écran 2025-01-09 170043.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
+            <img src="assets/images/infodev/Capture d'écran 2025-01-09 170501.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
+            <img src="assets/images/infodev/Capture d'écran 2025-01-09 170511.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
           </div>
         </div>
       </div>    

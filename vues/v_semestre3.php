@@ -34,7 +34,7 @@ Nous avions une base de données existante sur SQL Server à modifier pour répo
         <div class="card project-card">
           <div class="card-body">
             <h5 class="card-title">Bitbucket</h5>
-            <img src="assets/images/epoka/bitbucket2.PNG" class="card-img-top" alt="...">
+            <img src="assets/images/epoka/bitbucket2.PNG" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
           </div>
         </div>
       </div>  
@@ -42,7 +42,7 @@ Nous avions une base de données existante sur SQL Server à modifier pour répo
         <div class="card project-card">
           <div class="card-body">
             <h5 class="card-title">Les commits de la branche article</h5>
-            <img src="assets/images/epoka/bitbucket commit.PNG" class="card-img-top" alt="...">
+            <img src="assets/images/epoka/bitbucket commit.PNG" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
           </div>
         </div>
       </div>  
@@ -50,7 +50,7 @@ Nous avions une base de données existante sur SQL Server à modifier pour répo
         <div class="card project-card">
           <div class="card-body">
             <h5 class="card-title">Jira</h5>
-            <img src="assets/images/epoka/jira.png" class="card-img-top" alt="...">
+            <img src="assets/images/epoka/jira.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
           </div>
         </div>
       </div>
@@ -64,7 +64,7 @@ Nous avions une base de données existante sur SQL Server à modifier pour répo
           </a>
           <div class="card-body">
             <h5 class="card-title">Diagramme</h5>
-            <img src="assets/images/epoka/diagram.png" class="card-img-top" alt="...">
+            <img src="assets/images/epoka/diagram.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
           </div>
         </div>
       </div>
@@ -75,8 +75,8 @@ Nous avions une base de données existante sur SQL Server à modifier pour répo
         <div class="card project-card">
           <div class="card-body">
             <h5 class="card-title">Création du site Epoka presse</h5>
-            <img src="assets/images/epoka/accueil_avant_connection.PNG" class="card-img-top" alt="...">
-            <img src="assets/images/epoka/accueil.PNG" class="card-img-top" alt="...">
+            <img src="assets/images/epoka/accueil_avant_connection.PNG" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
+            <img src="assets/images/epoka/accueil.PNG" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
           </div>
         </div>
       </div>  
@@ -84,7 +84,7 @@ Nous avions une base de données existante sur SQL Server à modifier pour répo
         <div class="card project-card">
           <div class="card-body">
             <h5 class="card-title">La page article</h5>
-                <img src="assets/images/epoka/article.PNG" class="card-img-top" alt="...">
+            <img src="assets/images/epoka/article.PNG" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
           </div>
         </div>
       </div>
@@ -92,8 +92,8 @@ Nous avions une base de données existante sur SQL Server à modifier pour répo
         <div class="card project-card">
           <div class="card-body">
             <h5 class="card-title">Les différentes pages</h5>
-            <img src="assets/images/epoka/image.PNG" class="card-img-top" alt="...">
-            <img src="assets/images/epoka/vente.PNG" class="card-img-top" alt="...">
+            <img src="assets/images/epoka/image.PNG" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
+            <img src="assets/images/epoka/vente.PNG" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
           </div>
         </div>
       </div>     
