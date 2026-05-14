@@ -83,3 +83,14 @@ body {
     transform: translateY(-10px);
     box-shadow: 0 10px 30px rgba(0,0,0,0.5);
 }
+.card-img-top {
+    transition: transform 0.3s ease;
+    cursor: zoom-in;
+}
+
+.card-img-top:hover {
+    transform: scale(1.5); /* Agrandit l'image de 50% */
+    z-index: 10;
+    position: relative;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+}
