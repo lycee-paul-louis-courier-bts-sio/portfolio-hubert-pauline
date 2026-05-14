@@ -42,4 +42,7 @@
       </div>
   </div>
 </div>
+<div class="card" onclick="this.classList.toggle('large')">
+    Cliquez-moi
+  </div>
 </section>

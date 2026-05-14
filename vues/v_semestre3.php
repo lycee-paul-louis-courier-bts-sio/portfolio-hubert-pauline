@@ -99,4 +99,7 @@ Nous avions une base de données existante sur SQL Server à modifier pour répo
       </div>     
   </div>
 </div>
+<div class="card" onclick="this.classList.toggle('large')">
+    Cliquez-moi
+  </div>
 </section>

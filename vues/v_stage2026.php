@@ -68,3 +68,6 @@ Cette expérience a été particulièrement enrichissante. Elle m'a permis de co
       
     </div>
 </div>
+<div class="card" onclick="this.classList.toggle('large')">
+    Cliquez-moi
+  </div>
