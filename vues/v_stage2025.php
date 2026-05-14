@@ -27,7 +27,7 @@ Cette expérience a été très enrichissante. Elle m'a permis de me familiarise
             <img src="assets/images/stage2025/mission 1/accueil.PNG" 
      class="card-img-top" 
      style="transition: transform 0.3s; cursor: pointer;" 
-     onmouseover="this.style.transform='scale(5)'; this.style.zIndex='100'; this.style.position='relative';" 
+     onmouseover="this.style.transform='scale(3)'; this.style.zIndex='100'; this.style.position='relative';" 
      onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
             <img src="assets/images/stage2025/mission 1/articles.PNG" class="card-img-top" alt="...">
             <img src="assets/images/stage2025/mission 1/categorie.PNG" class="card-img-top" alt="...">
