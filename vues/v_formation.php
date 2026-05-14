@@ -19,7 +19,7 @@
           <div class="card h-100">
             <div class="card-body">
               <h5 class="card-header">SISR</h5>
-              <p class="card-text">Le BTS option SISR forme aux services informatiques, à la gestion des systèmes et réseaux, et à la cybersécurité. Il couvre le support utilisateur, l'administration réseau et la protection des données.</p>
+              <p class="card-text">Le BTS SIO option SISR forme aux services informatiques, à la gestion des systèmes et réseaux, et à la cybersécurité. Il couvre le support utilisateur, l'administration réseau et la protection des données.</p>
               <a href="index.php?uc=sisr" class="btn btn-primary">En savoir plus</a>
             </div>
           </div>
