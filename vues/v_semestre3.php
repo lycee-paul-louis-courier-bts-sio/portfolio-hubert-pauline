@@ -55,13 +55,13 @@ Nous avions une base de données existante sur SQL Server à modifier pour répo
         </div>
       </div>
       </div>
-      <div class="row row-cols-1 row-cols-md-3 g-4">
       <h1>Détail de la base de données</h1>
+      <div class="row row-cols-1 row-cols-md-3 g-4">
       <div class="col">
         <div class="card project-card">
-           <a href="assets/images/epoka/Procédure d’installation de SQL Server avec Code Igniter.pdf" download>
-      <span class="nav-icon material-symbols-rounded">Télécharger la procédure</span>
-</a>
+          <a href="assets/images/epoka/Procédure d’installation de SQL Server avec Code Igniter.pdf" download>
+            <span class="nav-icon material-symbols-rounded">Télécharger la procédure</span>
+          </a>
           <div class="card-body">
             <h5 class="card-title">Diagramme</h5>
             <img src="assets/images/epoka/diagram.png" class="card-img-top" alt="...">
