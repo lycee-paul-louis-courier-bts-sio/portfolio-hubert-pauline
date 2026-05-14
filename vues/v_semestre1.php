@@ -58,13 +58,20 @@
             <img src="assets/images/infodev/Capture d'écran 2025-01-09 165226.png" class="card-img-top" alt="...">
             <img src="assets/images/infodev/Capture d'écran 2025-01-09 165752.png" class="card-img-top" alt="...">
             <img src="assets/images/infodev/Capture d'écran 2025-01-09 165814.png" class="card-img-top" alt="...">
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card project-card">
+          <div class="card-body">
+            <h5 class="card-title">Site après modification apportée</h5>
             <img src="assets/images/infodev/Capture d'écran 2025-01-09 165843.png" class="card-img-top" alt="...">
             <img src="assets/images/infodev/Capture d'écran 2025-01-09 170043.png" class="card-img-top" alt="...">
             <img src="assets/images/infodev/Capture d'écran 2025-01-09 170501.png" class="card-img-top" alt="...">
             <img src="assets/images/infodev/Capture d'écran 2025-01-09 170511.png" class="card-img-top" alt="...">
           </div>
         </div>
-      </div>  
+      </div>    
     </div>
   </div>
 </div>

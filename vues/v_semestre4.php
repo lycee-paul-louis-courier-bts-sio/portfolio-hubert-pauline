@@ -4,7 +4,7 @@
       <div class="card" >
         <div class="card-body">
           <img src="assets/images/epoka/logo.png" alt="logo epoka" width="50">
-          <p class="card-text"> Une base de données "bd_epoka_abo" a était mise en place pour la gestion des abonnements, cela n'a donc pas besoin d'être crée par Hibernate vu que celle ci est déjà existante. Nous du néanmoins modifier les classes métiers "libEpokaAbo". Le responsable des abonnements souhaite la liste des abonnements non renouvelés et ceux dont l'échéance est à moins de 30jours. glasfish, hibernate,orm,librairie, JSP
+          <p class="card-text"> Epoka Presse est une entreprise de presse qui a besoin d'une application web pour gérer ses abonnés. Ce projet a été réalisé en solo. J'ai ajouté des méthodes aux classes existantes et fait des tests avec Junit 4. Les classes utilisent l'ORM Hibernate pour le stockage dans une base de données SQL Server. J'ai développé l'application web avec Jakarta EE via Maven et créé trois pages JSP pour la gestion des abonnements.
             <img src="assets/images/epokaabo/glasfish.png" alt="logo glasfish" width="50">
             <img src="assets/images/epokaabo/hibernate.png" alt="logo hibernate" width="50">
             <img src="assets/images/epokaabo/JSP.png" alt="logo orm" width="50">
@@ -42,6 +42,7 @@
         <div class="card project-card">
           <div class="card-body">
             <h5 class="card-title">L'utilisateur développe les abonnements non renouvelés</h5>
+                <img src="assets/images/epokaabo/rouge.PNG" class="card-img-top" alt="liste non renouveler">
             <p class="card-text">Dans cette accordéon nous retrouvons la liste des abonnées qui n'ont pas renouvelés leurs abonnements ainsi que leurs informations sur l'abonnements. Nous avons également une loupe qui permet de retrouver tout les abonnements d'un abonnée</p>
           </div>
         </div>

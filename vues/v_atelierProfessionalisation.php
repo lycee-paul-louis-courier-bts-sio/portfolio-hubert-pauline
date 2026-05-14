@@ -10,7 +10,7 @@
         <div class="card-body">
           <img src="assets/images/infodev/Capture d'écran 2025-01-09 165226.png" class="card-img-top" alt="...">
           <h5 class="card-title">Semestre 1</h5>
-          <p class="card-text">Renfonte du site infoDev <img src="assets/images/infodev/logo.png" alt="logo infodev" width="250"></p>
+          <p class="card-text">Renfonte du site infoDev <img src="assets/images/infodev/logo.png" alt="logo infodev" width="50"></p>
           <a href="index.php?uc=semestre1" class="btn btn-primary">Détail</a>
         </div>
       </div>
@@ -20,7 +20,7 @@
         <div class="card-body">
           <img src="assets/images/millenuits/accueil.png" class="card-img-top" alt="...">
           <h5 class="card-title">Semestre 2</h5>
-          <p class="card-text">Création de l'application millenuits <img src="assets/images/millenuits/logo.png"  alt="logo millenuits" width="150"></p>
+          <p class="card-text">Création de l'application millenuits <img src="assets/images/millenuits/logo.png"  alt="logo millenuits" width="50"></p>
           <a href="index.php?uc=semestre2" class="btn btn-primary">Détail</a>
         </div>
       </div>

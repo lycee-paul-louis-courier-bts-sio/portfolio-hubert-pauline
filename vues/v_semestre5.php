@@ -4,9 +4,7 @@
       <div class="card" >
         <div class="card-body">
                     <img src="assets/images/epoka/logo.png" alt="logo epoka" width="50">
-          <p class="card-text">Epoka Presse, une entreprise de presse imaginaire, nécessite une application mobile Android pour la gestion de ses abonnés. J'ai réalisé ce projet en solo.
-Pour débuter, j'ai conçu une application de genre Web Service exploitant SQL Server. Elle devait présenter les détails d'un abonné ainsi que ses souscriptions, en se basant sur son code et son mot de passe.
-J'ai conçu l'application mobile Android en utilisant le logiciel Android Studio.
+          <p class="card-text">Epoka Presse, une entreprise de presse imaginaire, a besoin d'une application mobile Android pour gérer ses abonnés. J'ai développé une application de service web REST avec SQL Server, affichant les détails d'un abonné et ses souscriptions en utilisant un code et un mot de passe.
             <img src="assets/images/epokaabo/jarkarta.png" alt="logo JSP" width="50">
 </p>
 

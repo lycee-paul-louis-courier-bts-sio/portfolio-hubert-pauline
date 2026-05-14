@@ -6,7 +6,9 @@
           <img src="assets/images/epoka/logo.png" alt="..." width="250">
           <p class="card-text">
             <br>
-                    Pour cela, nous avons modifié la base de données, puis nous avons modifié le code du site en lui-même.
+                    Epoka Presse est une entreprise de presse imaginaire qui requiert une application pour administrer ses articles, photos et ventes. Dans le cadre de ce projet, nous formions une petite équipe de trois membres, et j'y occupais la position de chef de projet.
+Nous avons réparti les tâches en utilisant l'outil Jira et un tableau Kanban. Pour les diverses versions de l'application, nous avons utilisé l'outil Bitbucket pour créer une branche dédiée à chaque nouvelle fonctionnalité.
+Nous avions une base de données existante sur SQL Server à modifier pour répondre aux besoins. Néanmoins, nous avons eu des problèmes pour connecter la base de données à notre application, étant donné qu'elle repose sur le framework CodeIgniter. Suite à diverses investigations, nous avons réussi à établir la connexion.
                     <img src="assets/images/epoka/bitbucket.png" alt="logo bitbucket" width="50">
                     <img src="assets/images/epoka/logo jira.png" alt="logo jira" width="50">
                     <img src="assets/images/epoka/slqserver.png" alt="logo sqjserver" width="50">
@@ -52,6 +54,8 @@
           </div>
         </div>
       </div>
+      </div>
+      <div class="row row-cols-1 row-cols-md-3 g-4">
       <h1>Détail de la base de données</h1>
       <div class="col">
         <div class="card project-card">
@@ -63,6 +67,7 @@
             <img src="assets/images/epoka/diagram.png" class="card-img-top" alt="...">
           </div>
         </div>
+      </div>
       </div>
       </div>
       <h1>Détail du projet</h1>
@@ -79,14 +84,20 @@
       <div class="col">
         <div class="card project-card">
           <div class="card-body">
+            <h5 class="card-title">La page article</h5>
+                <img src="assets/images/epoka/article.PNG" class="card-img-top" alt="...">
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card project-card">
+          <div class="card-body">
             <h5 class="card-title">Les différentes pages</h5>
-            <img src="assets/images/epoka/article.PNG" class="card-img-top" alt="...">
             <img src="assets/images/epoka/image.PNG" class="card-img-top" alt="...">
             <img src="assets/images/epoka/vente.PNG" class="card-img-top" alt="...">
           </div>
         </div>
-      </div>    
-    </div>
+      </div>     
   </div>
 </div>
 </section>
