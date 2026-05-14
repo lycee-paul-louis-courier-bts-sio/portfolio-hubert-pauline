@@ -69,7 +69,6 @@ Nous avions une base de données existante sur SQL Server à modifier pour répo
         </div>
       </div>
       </div>
-      </div>
       <h1>Détail du projet</h1>
       <div class="row row-cols-1 row-cols-md-3 g-4">
       <div class="col">
