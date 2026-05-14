@@ -24,7 +24,11 @@ Cette expérience a été très enrichissante. Elle m'a permis de me familiarise
         <div class="card h-100">
           <div class="card-body">
             <h5 class="card-title">Initiation a Ruby On Rails</h5>
-            <img src="assets/images/stage2025/mission 1/accueil.PNG" class="card-img-top" alt="...">
+            <img src="assets/images/stage2025/mission 1/accueil.PNG" 
+     class="card-img-top" 
+     style="transition: transform 0.3s; cursor: pointer;" 
+     onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" 
+     onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
             <img src="assets/images/stage2025/mission 1/articles.PNG" class="card-img-top" alt="...">
             <img src="assets/images/stage2025/mission 1/categorie.PNG" class="card-img-top" alt="...">
             <p class="card-text">Cela était une formation avant de commencer a pouvoior réaliser les tâches demandés</p>
