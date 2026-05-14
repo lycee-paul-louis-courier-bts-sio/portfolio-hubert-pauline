@@ -40,14 +40,14 @@
         <div class="col">
           <div class="card h-100">
             <div class="card-body">
-              <img src="assets/images/veilleTechno/article1.png" class="card-img-top" alt="...">
+              <img src="assets/images/veilleTechno/article1.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
             </div>
           </div>
         </div>  
         <div class="col">
           <div class="card h-100">
             <div class="card-body">
-              <img src="assets/images/veilleTechno/article2.png" class="card-img-top" alt="...">
+              <img src="assets/images/veilleTechno/article2.png" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
               </div>
             </div>
           </div>
