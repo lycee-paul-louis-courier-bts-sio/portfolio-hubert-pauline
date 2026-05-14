@@ -16,19 +16,19 @@
     </a>
     <br>
      <a href="assets/images/infodev/Comparatif_de_CMS.pdf" download>
-      <span class="nav-icon material-symbols-rounded">Télécharger la Charte Graphique</span>
+      <span class="nav-icon material-symbols-rounded">Télécharger le Comparatif de CMS</span>
     </a>
     <br>
      <a href="assets/images/infodev/Documentation_de_l'installation_de_WordPress.pdf" download>
-      <span class="nav-icon material-symbols-rounded">Télécharger la Charte Graphique</span>
+      <span class="nav-icon material-symbols-rounded">Télécharger la Documentation de l'installation de WordPress</span>
     </a>
     <br>
      <a href="assets/images/infodev/Recette_existant_infodev.pdf" download>
-      <span class="nav-icon material-symbols-rounded">Télécharger la Charte Graphique</span>
+      <span class="nav-icon material-symbols-rounded">Télécharger la Recette existant infodev</span>
     </a>
     <br>
     <a href="assets/images/infodev/Recette_WordPress_utilisateurs.pdf" download>
-      <span class="nav-icon material-symbols-rounded">Télécharger la réalisation</span>
+      <span class="nav-icon material-symbols-rounded">Télécharger la Recette WordPress utilisateurs</span>
     </a>
         </div>
       </div>
