@@ -82,3 +82,19 @@ Cette expérience a été très enrichissante. Elle m'a permis de me familiarise
 <div class="card" onclick="this.classList.toggle('large')">
     
   </div>
+  .card {
+    width: 200px;
+    height: 100px;
+    background: lightblue;
+    transition: 0.3s; /* Pour que l'agrandissement soit fluide */
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 8px;
+  }
+
+  /* La classe qui sera ajoutée au clic */
+  .large {
+    width: 400px;
+    height: 200px;
+    background: lightcoral;
+  }
