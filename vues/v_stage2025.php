@@ -28,7 +28,7 @@ Cette expérience a été très enrichissante. Elle m'a permis de me familiarise
      class="card-img-top" 
      style="transition: transform 0.3s; cursor: pointer;" 
      onmouseover="this.style.transform='scale(2)'; this.style.zIndex='100'; this.style.position='relative';" 
-     onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
+     onmouseout="this.style.transform='scale(2)'; this.style.zIndex='1';">
             <img src="assets/images/stage2025/mission 1/articles.PNG" class="card-img-top" alt="...">
             <img src="assets/images/stage2025/mission 1/categorie.PNG" class="card-img-top" alt="...">
             <p class="card-text">Cela était une formation avant de commencer a pouvoior réaliser les tâches demandés</p>
