@@ -3,12 +3,13 @@
   <div class="text-primary-emphasis">
       <div class="card" >
         <div class="card-body">
-          <img src="assets/images/epokaabo/logo.png" class="card-img-top" alt="logo epoka">
+          <img src="assets/images/epoka/logo.png" alt="logo epoka" width="50">
           <p class="card-text"> Une base de données "bd_epoka_abo" a était mise en place pour la gestion des abonnements, cela n'a donc pas besoin d'être crée par Hibernate vu que celle ci est déjà existante. Nous du néanmoins modifier les classes métiers "libEpokaAbo". Le responsable des abonnements souhaite la liste des abonnements non renouvelés et ceux dont l'échéance est à moins de 30jours. glasfish, hibernate,orm,librairie, JSP
             <img src="assets/images/epokaabo/glasfish.png" alt="logo glasfish" width="50">
             <img src="assets/images/epokaabo/hibernate.png" alt="logo hibernate" width="50">
             <img src="assets/images/epokaabo/JSP.png" alt="logo orm" width="50">
             <img src="assets/images/epokaabo/orm.png" alt="logo JSP" width="50">
+            <img src="assets/images/epokaabo/jarkarta.png" alt="logo JSP" width="50">
           </p>
         </div>
       </div>  

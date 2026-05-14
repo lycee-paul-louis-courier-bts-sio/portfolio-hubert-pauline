@@ -4,7 +4,7 @@
       <div class="card" >
         <div class="card-body">
           <img src="assets/images/millenuits/logo.png"  alt="..." width="150">
-          <p class="card-text"> Au second semestre, nous avons dût améliorer le site vitrine de l'entreprise fictive de litterie : MilleNuits.
+          <p class="card-text"> Au second semestre, nous avons dû améliorer l'application de l'entreprise fictive de litterie : MilleNuits.
                     Nous devions l'améliorer et lui ajouter de nouvelles fonctionnalités telles qu'un système de connexion pour les employés
                     et la gestion des comptes-rendus de visite.
                     <br>

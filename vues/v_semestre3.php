@@ -7,7 +7,6 @@
           <p class="card-text">
             <br>
                     Pour cela, nous avons modifié la base de données, puis nous avons modifié le code du site en lui-même.
-                    bitbucket,jira, sqlServer, php, jquery,javascript,html
                     <img src="assets/images/epoka/bitbucket.png" alt="logo bitbucket" width="50">
                     <img src="assets/images/epoka/logo jira.png" alt="logo jira" width="50">
                     <img src="assets/images/epoka/slqserver.png" alt="logo sqjserver" width="50">
@@ -15,10 +14,8 @@
                     <img src="assets/images/millenuits/jquery.png" alt="logo jquery" width="50">
                     <img src="assets/images/epoka/javascript.jpg" alt="logo javascript" width="50">
                     <img src="assets/images/millenuits/html.png" alt="logo html" width="50">
+                    <img src="assets/images/epoka/codeIngniter.png" alt="logo CodeIgniter" width="50">
           </p>
-          <a href="assets/images/epoka/Procédure d’installation de SQL Server avec Code Igniter.pdf" download>
-      <span class="nav-icon material-symbols-rounded">Télécharger la procédure</span>
-</a>
         </div>
       </div>
     <br>
@@ -55,8 +52,12 @@
           </div>
         </div>
       </div>
+      <h1>Détail de la base de données</h1>
       <div class="col">
         <div class="card project-card">
+           <a href="assets/images/epoka/Procédure d’installation de SQL Server avec Code Igniter.pdf" download>
+      <span class="nav-icon material-symbols-rounded">Télécharger la procédure</span>
+</a>
           <div class="card-body">
             <h5 class="card-title">Diagramme</h5>
             <img src="assets/images/epoka/diagram.png" class="card-img-top" alt="...">

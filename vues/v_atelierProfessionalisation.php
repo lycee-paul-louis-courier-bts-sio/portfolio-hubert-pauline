@@ -10,7 +10,7 @@
         <div class="card-body">
           <img src="assets/images/infodev/Capture d'écran 2025-01-09 165226.png" class="card-img-top" alt="...">
           <h5 class="card-title">Semestre 1</h5>
-          <p class="card-text">Renfonte du site infoDev</p>
+          <p class="card-text">Renfonte du site infoDev <img src="assets/images/infodev/logo.png" alt="logo infodev" width="250"></p>
           <a href="index.php?uc=semestre1" class="btn btn-primary">Détail</a>
         </div>
       </div>
@@ -20,7 +20,7 @@
         <div class="card-body">
           <img src="assets/images/millenuits/accueil.png" class="card-img-top" alt="...">
           <h5 class="card-title">Semestre 2</h5>
-          <p class="card-text">Création de l'application millenuits</p>
+          <p class="card-text">Création de l'application millenuits <img src="assets/images/millenuits/logo.png"  alt="logo millenuits" width="150"></p>
           <a href="index.php?uc=semestre2" class="btn btn-primary">Détail</a>
         </div>
       </div>
@@ -30,7 +30,7 @@
         <div class="card-body">
           <img src="assets/images/epoka/accueil.PNG" class="card-img-top" alt="...">
           <h5 class="card-title">Semestre 3</h5>
-            <p class="card-text"> Création de l'application gestion revue <img src="assets/images/epoka/logo.png" alt="..." width="50"></p>
+            <p class="card-text"> Création de l'application gestion revue <img src="assets/images/epoka/logo.png" alt="logo epoka" width="50"></p>
             <a href="index.php?uc=semestre3" class="btn btn-primary">Détail</a>
         </div>
       </div>
@@ -40,7 +40,7 @@
         <div class="card-body">
           <img src="assets/images/epokaabo/accueil.PNG" class="card-img-top" alt="...">
           <h5 class="card-title">Semestre 4</h5>
-          <p class="card-text"> Création de l'application Abonnée</p>
+          <p class="card-text"> Création de l'application Abonnée <img src="assets/images/epoka/logo.png" alt="logo epoka" width="50"></p>
             <a href="index.php?uc=semestre4" class="btn btn-primary">Détail</a>
         </div>
       </div>
@@ -50,7 +50,7 @@
         <div class="card-body">
           <img src="assets/images/epokamobile/get2.PNG" class="card-img-top" alt="..."height="50">
           <h5 class="card-title">Semestre 4</h5>
-            <p class="card-text"> Création de l'application Abonnée mobile</p>
+            <p class="card-text"> Création de l'application Abonnée mobile <img src="assets/images/epoka/logo.png" alt="logo epoka" width="50"></p>
             <a href="index.php?uc=semestre5" class="btn btn-primary">Détail</a>
         </div>
       </div>
