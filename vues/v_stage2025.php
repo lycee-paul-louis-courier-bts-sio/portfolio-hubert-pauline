@@ -63,6 +63,7 @@ Cette expérience a été très enrichissante. Elle m'a permis de me familiarise
           </div>
         </div>
       </div>
+      <div class="card" onclick="this.classList.toggle('large')">
       <div class="col">
         <div class="card h-100">
           <div class="card-body">
@@ -73,10 +74,11 @@ Cette expérience a été très enrichissante. Elle m'a permis de me familiarise
           </div>
         </div>
       </div> 
+       </div>
     </div>
     
   </div>
 </div>
 <div class="card" onclick="this.classList.toggle('large')">
-    Cliquez-moi
+    
   </div>
