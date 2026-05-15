@@ -34,6 +34,7 @@
         </section>
     </div>
 </div>
+<br>
 <div class="container">
     <div class="text-primary-emphasis">
         <section id="contact" class="section">
