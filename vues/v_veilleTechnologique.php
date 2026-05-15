@@ -3,7 +3,7 @@
     <div class="text-center">
     <h1> Quelle est l'impact de l'ai sur notre société ?</h1>
     </div>
-    <p>J'ai choisi ce thème pour m'informer davantage sur les impacts, l'utilisation et la sécurité de l'ai afin de pouvoir mieux se préparer à ce qui nous attendra, mais aussi pouvoir se protéger </p>
+    <p>J'ai sélectionné ce sujet pour approfondir mes connaissances sur les effets, l'exploitation et la sûreté de l'intelligence artificielle, afin d'être mieux armé face à ce qui nous attend, tout en étant capable de me prémunir. </p>
     <div class="row row-cols-1 row-cols-md-3 g-4">
       <div class="col">
         <div class="card h-30"style="width: 15rem;">
@@ -52,7 +52,8 @@
             </div>
           </div>
         </div>  
-        <p> En somme, l'intelligence artificielle peut contribuer à améliorer notre existence, mais ne doit en aucun cas supplanter nos compétences et notre expertise. </p>
+        <p> En définitive, l'intelligence artificielle a le potentiel d'améliorer notre vie, mais ne doit jamais remplacer nos compétences et notre savoir-faire.</p>
+      </div>
       </div>
   </div>
 </div>

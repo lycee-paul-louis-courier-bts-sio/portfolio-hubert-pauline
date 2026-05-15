@@ -14,7 +14,7 @@
         </div>
       </div>  
     <br>   
-   <h1>Compétence travailler</h1>
+   <h1>Compétence travaillée</h1>
     <p>
       -Répondre aux incidents et aux demandes d’assistance et d’évolution<br>
       -Mettre à disposition des utilisateurs un service informatique<br>
@@ -25,16 +25,16 @@
           <div class="card-body">
             <h5 class="card-title">l'utilisateur choisit l'item "Abonnements orange & rouge"</h5>
             <img src="assets/images/epokaabo/accueil.PNG" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
-            <p class="card-text">La liste des abonnements pour la date du jour ou on  l'utilise nous répresente en orange l'abonnement a renouveler et l'accordéon en dessous nous montre les abonnements en rouge non renouvelés</p>
+            <p class="card-text">La liste des abonnements pour la date du jour où on l'utilise nous représente en orange l'abonnement à renouveler et l'accordéon en dessous nous montre les abonnements en rouge non renouvelés.</p>
           </div>
         </div>
       </div>  
       <div class="col">
         <div class="card project-card">
           <div class="card-body">
-            <h5 class="card-title">l'utilisateur développe les abonnements à renouvelever</h5>
+            <h5 class="card-title">l'utilisateur développe les abonnements à renouveler</h5>
             <img src="assets/images/epokaabo/orange.PNG" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
-            <p class="card-text">Dans cette accordéon nous retrouvons la liste des abonnées qui peuvent renouvelés leurs abonnements ainsi que leurs informations sur l'abonnements. Nous avons également une loupe qui permet de retrouver tout les abonnements d'un abonnée</p>
+            <p class="card-text">Dans cet accordéon, nous retrouvons la liste des abonnées qui peuvent renouveler leurs abonnements ainsi que leurs informations sur l'abonnement. Nous avons également une loupe qui permet de retrouver tous les abonnements d'un abonné.</p>
           </div>
         </div>
       </div>  
@@ -43,7 +43,7 @@
           <div class="card-body">
             <h5 class="card-title">L'utilisateur développe les abonnements non renouvelés</h5>
             <img src="assets/images/epokaabo/rouge.PNG" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
-            <p class="card-text">Dans cette accordéon nous retrouvons la liste des abonnées qui n'ont pas renouvelés leurs abonnements ainsi que leurs informations sur l'abonnements. Nous avons également une loupe qui permet de retrouver tout les abonnements d'un abonnée</p>
+            <p class="card-text">Dans cet accordéon, nous retrouvons la liste des abonnées qui n'ont pas renouvelé leurs abonnements ainsi que leurs informations sur l'abonnement. Nous avons également une loupe qui permet de retrouver tous les abonnements d'un abonné.</p>
           </div>
         </div>
       </div>

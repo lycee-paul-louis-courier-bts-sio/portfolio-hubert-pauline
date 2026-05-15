@@ -11,7 +11,7 @@
         </div>
       </div>
     <br>
-     <h1>Compétence travailler</h1>
+     <h1>Compétence travaillée</h1>
     <p>-Gérer le patrimoine informatique<br>
       -Répondre aux incidents et aux demandes d’assistance et d’évolution<br>
       -Mettre à disposition des utilisateurs un service informatique</p>    
@@ -21,6 +21,7 @@
           <div class="card-body">
             <h5 class="card-title">Web service get</h5>
             <img src="assets/images/epokamobile/get.PNG" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
+          <p>Requête GET des informations d'un abonné avec son identifiant et son mot de passe</p>
           </div>
         </div>
       </div>  
@@ -29,6 +30,7 @@
           <div class="card-body">
             <h5 class="card-title"> Web service avec url</h5>
             <img src="assets/images/epokamobile/get2.PNG" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
+          <p>Requête GET des informations d'un abonné avec son identifiant et son mot de passe avec l'url</p>
           </div>
         </div>
       </div>  
@@ -37,6 +39,7 @@
           <div class="card-body">
             <h5 class="card-title">Web service put</h5>
             <img src="assets/images/epokamobile/put.PNG" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
+          <p>Requête PUT pour modifier le code postal de l'abonné</p>
           </div>
         </div>
       </div>

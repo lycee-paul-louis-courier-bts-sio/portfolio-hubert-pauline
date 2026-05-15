@@ -1,6 +1,6 @@
  <div class="container">
       <div class="text-primary-emphasis">
-        <h1> Stage 2025 chez Stock2com</h1>
+        <h1> Stage 2025 </h1>
          <div class="container">
       <div class="card" >
         <div class="card-body">
@@ -13,7 +13,7 @@ Cette expérience a été très enrichissante. Elle m'a permis de me familiarise
     </a>
       </div>
     <br>
-    <h1>Compétence travailler</h1>
+    <h1>Compétence travaillée</h1>
     <p>-Gérer le patrimoine informatique<br>
       -Répondre aux incidents et aux demandes d’assistance et d’évolution<br>
       -Développer la présence en ligne de l’organisation<br>
@@ -27,7 +27,7 @@ Cette expérience a été très enrichissante. Elle m'a permis de me familiarise
             <img src="assets/images/stage2025/mission 1/accueil.PNG" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
             <img src="assets/images/stage2025/mission 1/articles.PNG" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
             <img src="assets/images/stage2025/mission 1/categorie.PNG" class="card-img-top" style="transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.5)'; this.style.zIndex='100'; this.style.position='relative';" onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
-            <p class="card-text">Cela était une formation avant de commencer a pouvoior réaliser les tâches demandés</p>
+            <p class="card-text">Formation avant de commencer à pouvoir réaliser les tâches demandées.</p>
           </div>
         </div>
       </div>  

@@ -4,7 +4,7 @@
       <div class="card" >
         <div class="card-body">
           <img src="assets/images/logo.png" class="card-img-top" alt="...">
-          <p class="card-text">Stock2Com est une entreprise française, localisée à Tours, créée en 2006, mais avec un changement de statut en 2021 qui se spécialise en consultation dans le domaine des systèmes et logiciels informatiques. Cette entreprise se démarque particulièrement par son savoir-faire en matière de conception de sites web et de solutions administratives pour les professionnels, principalement dans le domaine du tourisme et de l'immobilier. L’entreprise compte plusieurs centaines de clients. Ainsi l’entreprise compte 2salariés qui sont des développeurs. L’entreprise est très petit ainsi elle n’a pas vraiment de service</p>
+          <p class="card-text">Stock2Com est une entreprise française, localisée à Tours, créée en 2006, mais avec un changement de statut en 2021 qui se spécialise en consultation dans le domaine des systèmes et logiciels informatiques. Cette entreprise se démarque particulièrement par son savoir-faire en matière de conception de sites web et de solutions administratives pour les professionnels, principalement dans le domaine du tourisme et de l'immobilier. L’entreprise compte plusieurs centaines de clients. Ainsi, l’entreprise compte 2 salariés qui sont des développeurs.L'entreprise est très petite, de ce fait, elle ne dispose pas véritablement de département spécifique.</p>
           <a href="https://www.stock2com.fr/" target="_blank">Consulter le site </a>
         </div>
       </div>
