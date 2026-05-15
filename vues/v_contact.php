@@ -37,7 +37,6 @@
 <div class="container">
     <div class="text-primary-emphasis">
         <section id="contact" class="section">
-            <h2>📩 Contactez-moi</h2>
             
             <div class="contact-container">
                 <form action="#" method="POST" class="contact-form">
