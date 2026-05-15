@@ -33,7 +33,6 @@
           </div>
         </div>
       </div>
-    </div>
       <br>
       <h2 class="text-center"> Présentation de plusieurs articles </h2>
       <div class="row row-cols-1 row-cols-md-3 g-4">
