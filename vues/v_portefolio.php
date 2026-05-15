@@ -10,7 +10,7 @@
         <div class="content">
             <p>Bonjour, je m'appelle Pauline Hubert. Je suis actuellement étudiante au lycée Paul Louis Courier 🗺️ en deuxième année de BTS SIO 
             (Services Informatiques aux Organisations) dans l'option SLAM 
-            (Solutions Logicielles et Application Métier), une option spécialisée pour le développement 💻. <br>J’ai découvert la programmation en prenant la STI2D avec l'option SIN au lycée et j’ai vite compris que c’était fait pour moi</p>
+            (Solutions Logicielles et Application Métier), une option spécialisée pour le développement 💻. <br>J’ai découvert la programmation en prenant la STI2D (sciences et technologies de l'industrie et du développement durable) avec l'option SIN(systèmes d'information et numérique) au lycée et j’ai vite compris que c’était fait pour moi</p>
         </div>    
     </div>
     <a href="assets/images/CV.pdf" download>
