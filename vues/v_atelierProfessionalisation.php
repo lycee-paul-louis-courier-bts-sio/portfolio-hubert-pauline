@@ -2,7 +2,7 @@
   <div class="container text-center">
   <div class="text-primary-emphasis">
     <div class="text-center">
-    <h1>Les projets effectués au cours des deux années</h1>
+    <h1>Les projets réaliser sur les 2 années</h1>
     </div>
     <div class="row row-cols-1 row-cols-md-3 g-4">
     <div class="col">
