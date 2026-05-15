@@ -1,5 +1,6 @@
 <section id="about" class="section">
 <div class="container">
+      <div class="text-primary-emphasis">
     <div class="col">
         <h1>Portfolio</h1>
         <img src="assets/images/Paola.png" alt="photo "width="150">
@@ -15,6 +16,7 @@
     <a href="assets/images/CV.pdf" download>
       <span class="nav-icon material-symbols-rounded">Télécharger le CV</span>
     </a>  
+</div>
 </div>
 </section>
 
