@@ -7,8 +7,8 @@
       <div class="col skill">
           <div class="card  h-100">
             <h5 class="card-title">ANSSI 2024</h5>
-             <img src="assets/images/..." alt="Certification ANSSI">
-            <a href="assets/docs/..." download>
+             <img src="assets/images/anssi.jpg" alt="Certification ANSSI">
+            <a href="assets/docs/anssi.pdf" download>
                 <span class="nav-icon material-symbols-rounded">Télécharger la certification ANSSI</span>
             </a>
           </div>
